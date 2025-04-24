@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Typescript, React**
+- 💬 Ask me about  Reactjs**
 
 - 📫 Reach me at **saank980@gmail.com**
 
-- ⚡ Fu **I think I'm a great developer**
+- ⚡ Fun **I think I'm a great developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
